@@ -11,9 +11,9 @@ Este projeto é uma aplicação web desenvolvida em **PHP** utilizando **POO**. 
 
 ---
 
-## 🧪 Como executar localmente
+## Como executar localmente
 
-1. Clone este repositório:
+1. Clone o repositório:
 git clone git@github.com:ManelSMO/prog3-a1-poo-EmanuelPreviatti.git
 
 
